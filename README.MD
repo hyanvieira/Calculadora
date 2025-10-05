@@ -1,6 +1,6 @@
 # 🧮 Calculadora com Tkinter
 
-Este projeto é uma calculadora simples desenvolvida em Python utilizando a biblioteca **Tkinter** para interface gráfica. Ela permite realizar operações matemáticas básicas como adição, subtração, multiplicação, divisão e porcentagem.
+Este projeto é uma calculadora simples desenvolvida em Python utilizando a biblioteca **Tkinter** para interface gráfica. Ela permite realizar operações matemáticas básicas como adição, subtração, multiplicação, divisão e módulo(resto da divisão).
 
 ---
 
@@ -32,3 +32,4 @@ A calculadora possui uma interface amigável com botões organizados em linhas, 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/hyanvieira/Calculadora.git
+
